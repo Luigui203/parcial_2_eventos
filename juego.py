@@ -2,6 +2,8 @@ import tkinter as tk
 from tkinter import messagebox
 import random
 
+#Luis Carlos Quintero Tejada
+
 class JuegoAdivinarNumero:
     def __init__(self, ventana):
         self.ventana = ventana
